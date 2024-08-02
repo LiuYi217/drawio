@@ -1,9 +1,70 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="第 1 页" id="Nx-Wv0I_7bfAB9pjk7jc">
-    <mxGraphModel>
+    <mxGraphModel dx="771" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NVgafI9u-V6-YJrApagZ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="80" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="NVgafI9u-V6-YJrApagZ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NVgafI9u-V6-YJrApagZ-3" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="170" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NVgafI9u-V6-YJrApagZ-4" value="介绍" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NVgafI9u-V6-YJrApagZ-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="230" as="sourcePoint" />
+            <mxPoint x="121.0344827586207" y="230" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVgafI9u-V6-YJrApagZ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="NVgafI9u-V6-YJrApagZ-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="80" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="NVgafI9u-V6-YJrApagZ-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.996;exitY=0.694;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.009;entryY=0.694;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NVgafI9u-V6-YJrApagZ-7" target="NVgafI9u-V6-YJrApagZ-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="205" as="sourcePoint" />
+            <mxPoint x="680" y="155" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVgafI9u-V6-YJrApagZ-10" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="577" y="204" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NVgafI9u-V6-YJrApagZ-11" value="介绍" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="577" y="224" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NVgafI9u-V6-YJrApagZ-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="NVgafI9u-V6-YJrApagZ-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.996;exitY=0.694;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.009;entryY=0.694;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="288.49999999999994" y="400" as="sourcePoint" />
+            <mxPoint x="61.49000000000005" y="400" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NVgafI9u-V6-YJrApagZ-15" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="67" y="414" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NVgafI9u-V6-YJrApagZ-16" value="介绍" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="67" y="434" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NVgafI9u-V6-YJrApagZ-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.996;exitY=0.694;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.009;entryY=0.694;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="288.49999999999994" y="470" as="sourcePoint" />
+            <mxPoint x="61.49000000000005" y="470" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
